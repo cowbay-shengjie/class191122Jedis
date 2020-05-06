@@ -34,5 +34,6 @@ public class JedisCodeTest {
         //在fhotfix分支所做的修改（Master)
         //合并两个分支解决冲突
         //new libe。。。
+        //测试分支和远程库协同操作（happy分支）
     }
 }
