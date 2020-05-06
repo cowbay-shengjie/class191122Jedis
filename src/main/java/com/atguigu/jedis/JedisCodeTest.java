@@ -31,5 +31,7 @@ public class JedisCodeTest {
         jedis.close();
 
         //在fhotfix分支所做的修改(happy分支）
+        //在fhotfix分支所做的修改（Master)
+        //合并两个分支解决冲突
     }
 }
