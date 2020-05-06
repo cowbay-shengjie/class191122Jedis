@@ -30,6 +30,6 @@ public class JedisCodeTest {
         //关闭连接
         jedis.close();
 
-        //在fhotfix分支所做的修改
+        //在fhotfix分支所做的修改（Master)
     }
 }
